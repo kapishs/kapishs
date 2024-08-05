@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kapish-sharma-3210532b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kapish-sharma-3210532b0" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/kapish-sharma-3210532b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kapish-sharma-3210532b0" height="30" width="40" /></a>
 <a href="https://fb.com/kapish sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kapish sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/kapish_h_hm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kapish_h_hm" height="30" width="40" /></a>
+<a href="https://instagram.com/kapish_h_hm_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kapish_h_hm_" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kapish23mfcxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kapish23mfcxn" height="30" width="40" /></a>
 </p>
 
