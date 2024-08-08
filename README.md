@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sharmakapish704@gmail.com**
 
-- ⚡ Fun fact **i got 36 marks in my class 12 math**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
